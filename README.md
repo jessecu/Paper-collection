@@ -23,8 +23,8 @@ Yulin Liu (SciEcon CIC); Yuxuan Lu (Peking University); Kartik Nayak (Duke Unive
 ### [7] 	Evocatio: Conjuring Bug Capabilities from a Single PoC	
 Zhiyuan Jiang (National University of Defense Technology); Shuitao Gan (SKL-MEAC; Tsinghua University); Adrian Herrera (Australian National University); Flavio Toffalini (EPFL); Lucio Romerio (EPFL); Chaojing Tang (National University of Defense Technology); Manuel Egele (Boston University); Chao Zhang (Tsinghua University; BNRist Zhongguancun Lab); Mathias Payer (EPFL)
 
-### [8] 	GearBox: Optimal-size Shard Committees by Leveraging the Safety-Liveness Dichotomy	
-Bernardo David (ITU); Bernardo Magri (The University of Manchester); Christian Matt (Concordium); Jesper Buus Nielsen (Concordium Blockchain Research Center; Aarhus University); Daniel Tschudi (Concordium)
+### [8] 		On the Adaptive Security of the Threshold BLS Signature Scheme	
+Renas Bacho (CISPA Helmoltz Center for Information Security); Julian Loss (CISPA Helmoltz Center for Information Security)
 
 ### [9] 	PACE: Fully Parallelizable BFT from Reproposable Byzantine Agreement	
 Haibin Zhang (Beijing Institute of Technology); Sisi Duan (Tsinghua University)
@@ -57,8 +57,5 @@ Samuel Steffen (ETH Zurich); Benjamin Bichsel (ETH Zurich); Martin Vechev (ETH Z
 Leemon Baird (Swirlds Labs); Pratyay Mukherjee (Swirlds Labs); Rohit Sinha (Swirlds Labs)
 
 
-### [19] 	On the Adaptive Security of the Threshold BLS Signature Scheme	
-Renas Bacho (CISPA Helmoltz Center for Information Security); Julian Loss (CISPA Helmoltz Center for Information Security)
-
-### [20] 	ROAST: Robust Asynchronous Schnorr Threshold Signatures	
+### [19] 	ROAST: Robust Asynchronous Schnorr Threshold Signatures	
 Tim Ruffing (Blockstream); Viktoria Ronge (Friedrich-Alexander-Universität Erlangen-Nürnberg); Elliott Jin (Blockstream); Jonas Schneider-Bensch (CISPA Helmholtz Center for Information Security); Dominique Schröder (Friedrich-Alexander-Universität Erlangen-Nürnberg) 
