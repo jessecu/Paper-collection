@@ -1,4 +1,4 @@
-# Paper-collection （Blockchain and Cryptography）
+# Paper-collection （blockchain and related cryptography）
 
 ## CCS 2022 
 https://www.sigsac.org/ccs/CCS2022/program/accepted-papers.html
