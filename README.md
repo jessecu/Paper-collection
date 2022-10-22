@@ -57,6 +57,7 @@ Lorenzo Grassi (Radboud University); Dmitry Khovratovich (Dusk Network); Reinhar
 
 ## USENIX Security 2022 
 https://www.usenix.org/conference/usenixsecurity22/fall-accepted-papers
+
 https://www.usenix.org/conference/usenixsecurity22/winter-accepted-papers
 ###  [1]	Aardvark: An Asynchronous Authenticated Dictionary with Applications to Account-based Cryptocurrencies
 Derek Leung, MIT CSAIL; Yossi Gilad, Hebrew University of Jerusalem; Sergey Gorbunov, University of Waterloo; Leonid Reyzin, Boston University; Nickolai Zeldovich, MIT CSAIL
