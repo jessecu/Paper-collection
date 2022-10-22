@@ -53,3 +53,37 @@ Tim Ruffing (Blockstream); Viktoria Ronge (Friedrich-Alexander-Universität Erla
 ###  [17]	Reinforced Concrete: A Fast Hash Function for Verifiable Computation
 Lorenzo Grassi (Radboud University); Dmitry Khovratovich (Dusk Network); Reinhard Lüftenegger (Graz University of Technology); Christian Rechberger (Graz University of Technology); Markus Schofnegger (Graz University of Technology); Roman Walch (Graz University of Technology;Know-Center GmbH)
 
+
+## USENIX Security 2022
+###  [1]	Aardvark: An Asynchronous Authenticated Dictionary with Applications to Account-based Cryptocurrencies
+Derek Leung, MIT CSAIL; Yossi Gilad, Hebrew University of Jerusalem; Sergey Gorbunov, University of Waterloo; Leonid Reyzin, Boston University; Nickolai Zeldovich, MIT CSAIL
+###  [2]	Total Eclipse of the Heart – Disrupting the InterPlanetary File System
+Bernd Prünster, Institute of Applied Information Processing and Communications (IAIK), Graz University of Technology; Alexander Marsalek, A-SIT Secure Information Technology Center Austria; Thomas Zefferer, A-SIT Plus GmbH
+
+###  [3]	VerLoc: Verifiable Localization in Decentralized Systems
+Katharina Kohls, Radboud University Nijmegen; Claudia Diaz, imec-COSIC KU Leuven and Nym Technologies SA
+
+
+## SP 2022
+###  [1]	ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs 
+Samuel Steffen (ETH Zurich), Benjamin Bichsel (ETH Zurich), Roger Baumgartner (ETH Zurich), Martin Vechev (ETH Zurich)
+###  [2]	COBRA: Dynamic Proactive Secret Sharing for Confidential BFT Services 
+Robin Vassantlal (LASIGE, Faculdade de Ciencias, Universidade de Lisboa), Eduardo Alchieri (Universidade de Brasilia), Bernardo Ferreira (LASIGE, Faculdade de Ciencias, Universidade de Lisboa), Alysson Bessani (LASIGE, Faculdade de Ciencias, Universidade de Lisboa)
+###  [3]	Foundations of Dynamic BFT 
+Sisi Duan (Tsinghua University), Haibin Zhang (independent)
+###  [4]	HAMRAZ: Resilient Partitioning and Replication 
+Xiao Li (University of California, Riverside, USA), Farzin Houshmand (University of California, Riverside, USA), Mohsen Lesani (University of California, Riverside, USA)
+###  [5]	Practical Asynchronous Distributed Key Generation 
+Sourav Das (UIUC), Tom Yurek (UIUC), Zhuolun Xiang (UIUC), Andrew Miller (UIUC), Lefteris Kokoris-Kogias (IST Austria), Ling Ren (UIUC)
+###  [6]	Practical EMV Relay Protection 
+Andreea-Ina Radu (University of Birmingham, UK), Tom Chothia (University of Birmingham, UK), Christopher J.P. Newton (University of Surrey, UK), Ioana Boureanu (University of Surrey, UK), Liqun Chen (University of Surrey, UK)
+###  [7]	Quantifying Blockchain Extractable Value: How dark is the forest? 
+Kaihua Qin (Imperial College London), Liyi Zhou (Imperial College London), Arthur Gervais (Imperial College London)
+###  [8]	SPURT: Scalable Distributed Randomness Beacon with Transparent Setup 
+Sourav Das (UIUC), Vinith Krishnan (UIUC), Irene Isaac (UIUC), Ling Ren (UIUC)
+###  [9]	Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains 
+Sri AravindaKrishnan Thyagarajan (Friedrich Alexander University of Erlangen-Nürnberg), Giulio Malavolta (Max Planck Institute for Security and Privacy), Pedro Moreno-Sanchez (IMDEA Software Institute)
+###  [10]	Using Throughput-Centric Byzantine Broadcast to Tolerate Malicious Majority in Blockchains 
+Ruomu Hou (National University of Singapore), Haifeng Yu (National University of Singapore), Prateek Saxena (National University of Singapore)
+
+
