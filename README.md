@@ -115,7 +115,7 @@ Ruomu Hou (National University of Singapore), Haifeng Yu (National University of
  <li> A. Zamyatin, D. Harz, J. Lind, P. Panayiotou, A. Gervais, and W. Knottenbelt, “XCLAIM: Trustless, interoperable, cryptocurrency-backed assets,” S&P’19, vol. 2019-May, pp. 193–210, 2019, doi: 10.1109/SP.2019.00085.
  <li> A. Kiayias and D. Zindros, “Proof-of-Work Sidechains,” in FC’20, vol. 11599 LNCS, pp. 21–34, doi: 10.1007/978-3-030-43725-1_3.
   <li> S. A. K. Thyagarajan, G. Malavolta, and P. Moreno-Sanchez, “Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains,” S&P’ 22, vol. 2022-May, pp. 1299–1316, 2022, doi: 10.1109/SP46214.2022.9833731.
-<li> T. Xie et al., “zkBridge: Trustless Cross-chain Bridges Made Practical,” CCS’22,  <li> Online . Available: http://arxiv.org/abs/2210.00264.
+<li> T. Xie et al., “zkBridge: Trustless Cross-chain Bridges Made Practical,” CCS’22, Online . Available: http://arxiv.org/abs/2210.00264.
  <li> R. Belchior, A. Vasconcelos, S. Guerreiro, and M. Correia, “A Survey on Blockchain Interoperability: Past, Present, and Future Trends,” ACM Computing Surveys, vol. 54, no. 8, pp. 1–41, Nov. 2022, doi: 10.1145/3471140.
 <ol>
 
