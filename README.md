@@ -102,7 +102,6 @@ Ruomu Hou (National University of Singapore), Haifeng Yu (National University of
 
 
 # Topic
-
 ## Cross-chain communication
 <ol>
  <li> E. Androulaki, C. Cachin, A. De Caro, and E. Kokoris-Kogias, “Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains,” in ESORICS’18, vol. 11098 LNCS, Springer International Publishing, 2018, pp. 111–131.
@@ -122,6 +121,7 @@ Ruomu Hou (National University of Singapore), Haifeng Yu (National University of
 <ol>
 
 ## Sharding
+ 
 <ol>
  <li> L. Luu, V. Narayanan, C. Zheng, K. Baweja, S. Gilbert, and P. Saxena, “A secure sharding protocol for open blockchains,” CCS’16, vol. 24-28-Octo, pp. 17–30, 2016, doi: 10.1145/2976749.2978389.
 <li> E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly, E. Syta, and B. Ford, “OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding,” S&P’18, vol. 2018-May, pp. 583–598, 2018, doi: 10.1109/SP.2018.000-5.
