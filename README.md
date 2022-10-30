@@ -96,18 +96,17 @@ Ruomu Hou (National University of Singapore), Haifeng Yu (National University of
 # Topic
 
 ## Cross-chain communication
-### [1]	E. Androulaki, C. Cachin, A. De Caro, and E. Kokoris-Kogias, “Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains,” in ESORICS’18, vol. 11098 LNCS, Springer International Publishing, 2018, pp. 111–131.
-### [2]	S. Dziembowski, L. Eckey, and S. Faust, “FairSwap: How to Fairly Exchange Digital Goods,” in CCS’18, Oct. 2018, pp. 967–984, doi: 10.1145/3243734.3243857.
-### [3]	H. Jin, X. Dai, and J. Xiao, “Towards a novel architecture for enabling interoperability amongst multiple blockchains,” ICDCS’18, vol. 2018-July, pp. 1203–1211, 2018, doi: 10.1109/ICDCS.2018.00120.
-### [4]	M. Herlihy, “Atomic Cross-Chain Swaps,” in PODC’18, Jul. 2018, pp. 245–254, doi: 10.1145/3212734.3212736.
-### [5]	H. Yousaf, G. Kappos, and S. Meiklejohn, “Tracing transactions across cryptocurrency ledgers,” USENIX ’19, pp. 837–850, 2019.
-### [6]	G. Malavolta, C. Schneidewind, A. Kate, and M. Maffei, “Privacy-preserving Multi-hop Locks for Blockchain Scalability and Interoperability,” NDSS’19, no. February, 2019.
-### [7]	P. Gazi, A. Kiayias, and D. Zindros, “Proof-of-stake sidechains,” S&P’19, vol. 2019-May, pp. 139–156, 2019, doi: 10.1109/SP.2019.00040.
-### [8]	Z. Liu et al., “Hyperservice: Interoperability and programmability across heterogeneous blockchains,” CCS’19, pp. 549–566, 2019, doi: 10.1145/3319535.3355503.
-### [9]	A. Zamyatin, D. Harz, J. Lind, P. Panayiotou, A. Gervais, and W. Knottenbelt, “XCLAIM: Trustless, interoperable, cryptocurrency-backed assets,” S&P’19, vol. 2019-May, pp. 193–210, 2019, doi: 10.1109/SP.2019.00085.
-### [10]	A. Kiayias and D. Zindros, “Proof-of-Work Sidechains,” in FC’20, vol. 11599 LNCS, pp. 21–34, doi: 10.1007/978-3-030-43725-1_3.
-### [11]	A. Zamyatin, M. Al-bassam, and D. Zindros, “SoK: Communication Across Distributed Ledgers,” in FC’21, vol. 12675, pp. 3–36, doi: 10.1007/978-3-662-64331-0.
-### [12]	T. Xie et al., “zkBridge: Trustless Cross-chain Bridges Made Practical,” CCS’22, ### [Online]. Available: http://arxiv.org/abs/2210.00264.
-### [13]	R. Belchior, A. Vasconcelos, S. Guerreiro, and M. Correia, “A Survey on Blockchain Interoperability: Past, Present, and Future Trends,” ACM Computing Surveys, vol. 54, no. 8, pp. 1–41, Nov. 2022, doi: 10.1145/3471140.
-
+ + 1 	E. Androulaki, C. Cachin, A. De Caro, and E. Kokoris-Kogias, “Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains,” in ESORICS’18, vol. 11098 LNCS, Springer International Publishing, 2018, pp. 111–131.
+ + 2 	S. Dziembowski, L. Eckey, and S. Faust, “FairSwap: How to Fairly Exchange Digital Goods,” in CCS’18, Oct. 2018, pp. 967–984, doi: 10.1145/3243734.3243857.
+ + 3 	H. Jin, X. Dai, and J. Xiao, “Towards a novel architecture for enabling interoperability amongst multiple blockchains,” ICDCS’18, vol. 2018-July, pp. 1203–1211, 2018, doi: 10.1109/ICDCS.2018.00120.
+ + 4 	M. Herlihy, “Atomic Cross-Chain Swaps,” in PODC’18, Jul. 2018, pp. 245–254, doi: 10.1145/3212734.3212736.
+ + 5 	H. Yousaf, G. Kappos, and S. Meiklejohn, “Tracing transactions across cryptocurrency ledgers,” USENIX ’19, pp. 837–850, 2019.
+ + 6 	G. Malavolta, C. Schneidewind, A. Kate, and M. Maffei, “Privacy-preserving Multi-hop Locks for Blockchain Scalability and Interoperability,” NDSS’19, no. February, 2019.
+ + 7 	P. Gazi, A. Kiayias, and D. Zindros, “Proof-of-stake sidechains,” S&P’19, vol. 2019-May, pp. 139–156, 2019, doi: 10.1109/SP.2019.00040.
+ + 8 	Z. Liu et al., “Hyperservice: Interoperability and programmability across heterogeneous blockchains,” CCS’19, pp. 549–566, 2019, doi: 10.1145/3319535.3355503.
+ + 9 	A. Zamyatin, D. Harz, J. Lind, P. Panayiotou, A. Gervais, and W. Knottenbelt, “XCLAIM: Trustless, interoperable, cryptocurrency-backed assets,” S&P’19, vol. 2019-May, pp. 193–210, 2019, doi: 10.1109/SP.2019.00085.
+ + 10 	A. Kiayias and D. Zindros, “Proof-of-Work Sidechains,” in FC’20, vol. 11599 LNCS, pp. 21–34, doi: 10.1007/978-3-030-43725-1_3.
+ + 11 	A. Zamyatin, M. Al-bassam, and D. Zindros, “SoK: Communication Across Distributed Ledgers,” in FC’21, vol. 12675, pp. 3–36, doi: 10.1007/978-3-662-64331-0.
+ + 12 	T. Xie et al., “zkBridge: Trustless Cross-chain Bridges Made Practical,” CCS’22,  + Online . Available: http://arxiv.org/abs/2210.00264.
+ + 13 	R. Belchior, A. Vasconcelos, S. Guerreiro, and M. Correia, “A Survey on Blockchain Interoperability: Past, Present, and Future Trends,” ACM Computing Surveys, vol. 54, no. 8, pp. 1–41, Nov. 2022, doi: 10.1145/3471140.
 
