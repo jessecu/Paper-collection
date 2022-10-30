@@ -5,7 +5,7 @@
   * [S&P 2022](#s-p-2022)
 - [Topic](#topic)
   * [Cross-chain communication](#cross-chain-communication)
- <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+ 
   
 ## CCS 2022 
 https://www.sigsac.org/ccs/CCS2022/program/accepted-papers.html
