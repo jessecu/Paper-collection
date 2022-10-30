@@ -1,10 +1,11 @@
  # Paper-collection （blockchain and related cryptography）
+- [Conference](#conference)
   * [CCS 2022](#ccs-2022)
   * [USENIX Security 2022](#usenix-security-2022)
   * [S&P 2022](#s-p-2022)
-  
-  - [Topic](#topic)
+- [Topic](#topic)
   * [Cross-chain communication](#cross-chain-communication)
+  
 ## CCS 2022 
 https://www.sigsac.org/ccs/CCS2022/program/accepted-papers.html
 
