@@ -118,7 +118,7 @@ Ruomu Hou (National University of Singapore), Haifeng Yu (National University of
 <li> T. Xie et al., “zkBridge: Trustless Cross-chain Bridges Made Practical,” CCS’22, Online . Available: http://arxiv.org/abs/2210.00264.
  <li> R. Belchior, A. Vasconcelos, S. Guerreiro, and M. Correia, “A Survey on Blockchain Interoperability: Past, Present, and Future Trends,” ACM Computing Surveys, vol. 54, no. 8, pp. 1–41, Nov. 2022, doi: 10.1145/3471140.
  <li> OPTIMISTIC ROLLUPS https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/
-<ol>
+</ol>
 
 ## Sharding
  
@@ -136,5 +136,5 @@ Ruomu Hou (National University of Singapore), Haifeng Yu (National University of
 <li> J. Hellings and M. Sadoghi, “Byshard: Sharding in a byzantine environment,” Proceedings of the VLDB Endowment, vol. 14, no. 11, pp. 2230–2243, 2021, doi: 10.14778/3476249.3476275.
 <li> Z. Hong, S. Guo, P. Li, and W. Chen, “Pyramid: A layered sharding blockchain system,” INFOCOM’21, vol. 2021-May, no. c, 2021, doi: 10.1109/INFOCOM42981.2021.9488747.
 <li> H. Huang et al., “BrokerChain : A Cross-Shard Blockchain Protocol for Account / Balance-based State Sharding,” INFOCOM’22, pp. 1–10, 2022.
-<ol>
+</ol>
 
