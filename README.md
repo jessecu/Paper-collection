@@ -5,6 +5,7 @@
   * [S&P 2022](#s-p-2022)
 - [Topic](#topic)
   * [Cross-chain communication](#cross-chain-communication)
+  * [Sharding](#Sharding)
  
   
 ## CCS 2022 
@@ -120,4 +121,20 @@ Ruomu Hou (National University of Singapore), Haifeng Yu (National University of
  <li> OPTIMISTIC ROLLUPS https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/
 <ol>
 
+## Sharding
+<ol>
+ <li> L. Luu, V. Narayanan, C. Zheng, K. Baweja, S. Gilbert, and P. Saxena, “A secure sharding protocol for open blockchains,” CCS’16, vol. 24-28-Octo, pp. 17–30, 2016, doi: 10.1145/2976749.2978389.
+<li> E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly, E. Syta, and B. Ford, “OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding,” S&P’18, vol. 2018-May, pp. 583–598, 2018, doi: 10.1109/SP.2018.000-5.
+<li> M. Zamani, M. Movahedi, and M. Raykova, “RapidChain: Scaling blockchain via full sharding,” CCS’18, pp. 931–948, 2018, doi: 10.1145/3243734.3243853.
+<li> J. Wang and H. Wang, “Monoxide: Scale out Blockchains with Asynchronous Consensus Zones Monoxide: Scale Out Blockchain with Asynchronous Consensus,” NSDI19, pp. 95--112, 2019, [Online]. Available: https://www.usenix.org/conference/nsdi19/presentation/wang-jiaping.
+<li> L. N. Nguyen, T. D. T. Nguyen, T. N. Dinh, and M. T. Thai, “OptChain: Optimal transactions placement for scalable blockchain sharding,” ICDCS’19, vol. 2019-July, pp. 525–535, 2019, doi: 10.1109/ICDCS.2019.00059.
+<li> H. Dang, T. T. A. Dinh, D. Loghin, E. C. Chang, Q. Lin, and B. C. Ooi, “Towards scaling blockchain systems via sharding,” SIGMOD’19, pp. 123–140, 2019, doi: 10.1145/3299869.3319889.
+<li> Y. Tao, B. Li, J. Jiang, H. C. Ng, C. Wang, and B. Li, “On sharding open blockchains with smart contracts,” ICDE’20, vol. 2020, pp. 1357–1368, 2020, doi: 10.1109/ICDE48307.2020.00121.
+<li> S. Das, V. Krishnan, and L. Ren, “Efficient Cross-Shard Transaction Execution in Sharded Blockchains,” 2020, [Online]. Available: http://arxiv.org/abs/2007.14521.
+<li> M. J. Amiri, D. Agrawal, and A. El Abbadi, “SharPer: Sharding Permissioned Blockchains over Network Clusters,” SIGMOD’21, pp. 76–88, 2021, doi: 10.1145/3448016.3452807.
+<li> C. Chen, Q. Ma, X. Chen, and J. Huang, “User distributions in shard-based blockchain network: queueing modeling, game analysis, and protocol design,” MobiHoc’21, pp. 221–230, 2021, doi: 10.1145/3466772.3467051.
+<li> J. Hellings and M. Sadoghi, “Byshard: Sharding in a byzantine environment,” Proceedings of the VLDB Endowment, vol. 14, no. 11, pp. 2230–2243, 2021, doi: 10.14778/3476249.3476275.
+<li> Z. Hong, S. Guo, P. Li, and W. Chen, “Pyramid: A layered sharding blockchain system,” INFOCOM’21, vol. 2021-May, no. c, 2021, doi: 10.1109/INFOCOM42981.2021.9488747.
+<li> H. Huang et al., “BrokerChain : A Cross-Shard Blockchain Protocol for Account / Balance-based State Sharding,” INFOCOM’22, pp. 1–10, 2022.
+<ol>
 
