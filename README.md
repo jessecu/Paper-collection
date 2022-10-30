@@ -93,7 +93,7 @@ Ruomu Hou (National University of Singapore), Haifeng Yu (National University of
 
 
 
-Topic—— Cross-chain communication
+# Topic—— Cross-chain communication
 ### [1]	E. Androulaki, C. Cachin, A. De Caro, and E. Kokoris-Kogias, “Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains,” in ESORICS’18, vol. 11098 LNCS, Springer International Publishing, 2018, pp. 111–131.
 ### [2]	S. Dziembowski, L. Eckey, and S. Faust, “FairSwap: How to Fairly Exchange Digital Goods,” in CCS’18, Oct. 2018, pp. 967–984, doi: 10.1145/3243734.3243857.
 ### [3]	H. Jin, X. Dai, and J. Xiao, “Towards a novel architecture for enabling interoperability amongst multiple blockchains,” ICDCS’18, vol. 2018-July, pp. 1203–1211, 2018, doi: 10.1109/ICDCS.2018.00120.
