@@ -104,37 +104,37 @@ Ruomu Hou (National University of Singapore), Haifeng Yu (National University of
 # Topic
 ## Cross-chain communication
 <ol>
- <li> E. Androulaki, C. Cachin, A. De Caro, and E. Kokoris-Kogias, “<b>Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains</b>,” in ESORICS’18, vol. 11098 LNCS, Springer International Publishing, 2018, pp. 111–131.
- <li> S. Dziembowski, L. Eckey, and S. Faust, “FairSwap: How to Fairly Exchange Digital Goods,” in CCS’18, Oct. 2018, pp. 967–984, doi: 10.1145/3243734.3243857.
- <li> H. Jin, X. Dai, and J. Xiao, “Towards a novel architecture for enabling interoperability amongst multiple blockchains,” ICDCS’18, vol. 2018-July, pp. 1203–1211, 2018, doi: 10.1109/ICDCS.2018.00120.
- <li> M. Herlihy, “Atomic Cross-Chain Swaps,” in PODC’18, Jul. 2018, pp. 245–254, doi: 10.1145/3212734.3212736.
- <li> H. Yousaf, G. Kappos, and S. Meiklejohn, “Tracing transactions across cryptocurrency ledgers,” USENIX ’19, pp. 837–850, 2019.
- <li> G. Malavolta, C. Schneidewind, A. Kate, and M. Maffei, “Privacy-preserving Multi-hop Locks for Blockchain Scalability and Interoperability,” NDSS’19, no. February, 2019.
- <li> P. Gazi, A. Kiayias, and D. Zindros, “Proof-of-stake sidechains,” S&P’19, vol. 2019-May, pp. 139–156, 2019, doi: 10.1109/SP.2019.00040.
- <li> Z. Liu et al., “Hyperservice: Interoperability and programmability across heterogeneous blockchains,” CCS’19, pp. 549–566, 2019, doi: 10.1145/3319535.3355503.
- <li> A. Zamyatin, D. Harz, J. Lind, P. Panayiotou, A. Gervais, and W. Knottenbelt, “XCLAIM: Trustless, interoperable, cryptocurrency-backed assets,” S&P’19, vol. 2019-May, pp. 193–210, 2019, doi: 10.1109/SP.2019.00085.
- <li> A. Kiayias and D. Zindros, “Proof-of-Work Sidechains,” in FC’20, vol. 11599 LNCS, pp. 21–34, doi: 10.1007/978-3-030-43725-1_3.
-  <li> S. A. K. Thyagarajan, G. Malavolta, and P. Moreno-Sanchez, “Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains,” S&P’ 22, vol. 2022-May, pp. 1299–1316, 2022, doi: 10.1109/SP46214.2022.9833731.
-<li> T. Xie et al., “zkBridge: Trustless Cross-chain Bridges Made Practical,” CCS’22, Online . Available: http://arxiv.org/abs/2210.00264.
- <li> R. Belchior, A. Vasconcelos, S. Guerreiro, and M. Correia, “A Survey on Blockchain Interoperability: Past, Present, and Future Trends,” ACM Computing Surveys, vol. 54, no. 8, pp. 1–41, Nov. 2022, doi: 10.1145/3471140.
+<li> E. Androulaki, C. Cachin, A. De Caro, and E. Kokoris-Kogias, “<b> Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains</b>,” in ESORICS’18, vol. 11098 LNCS, Springer International Publishing, 2018, pp. 111–131.
+ <li> S. Dziembowski, L. Eckey, and S. Faust, “<b>FairSwap: How to Fairly Exchange Digital Goods</b>,” in CCS’18, Oct. 2018, pp. 967–984, doi: 10.1145/3243734.3243857.
+ <li> H. Jin, X. Dai, and J. Xiao, “<b>Towards a novel architecture for enabling interoperability amongst multiple blockchains</b>,” ICDCS’18, vol. 2018-July, pp. 1203–1211, 2018, doi: 10.1109/ICDCS.2018.00120.
+ <li> M. Herlihy, “<b>Atomic Cross-Chain Swaps</b>,” in PODC’18, Jul. 2018, pp. 245–254, doi: 10.1145/3212734.3212736.
+ <li> H. Yousaf, G. Kappos, and S. Meiklejohn, “<b>Tracing transactions across cryptocurrency ledgers</b>,” USENIX ’19, pp. 837–850, 2019.
+ <li> G. Malavolta, C. Schneidewind, A. Kate, and M. Maffei, “<b>Privacy-preserving Multi-hop Locks for Blockchain Scalability and Interoperability</b>,” NDSS’19, no. February, 2019.
+ <li> P. Gazi, A. Kiayias, and D. Zindros, “<b>Proof-of-stake sidechains</b>,” S&P’19, vol. 2019-May, pp. 139–156, 2019, doi: 10.1109/SP.2019.00040.
+ <li> Z. Liu et al., “<b>Hyperservice: Interoperability and programmability across heterogeneous blockchains</b>,” CCS’19, pp. 549–566, 2019, doi: 10.1145/3319535.3355503.
+ <li> A. Zamyatin, D. Harz, J. Lind, P. Panayiotou, A. Gervais, and W. Knottenbelt, “<b>XCLAIM: Trustless, interoperable, cryptocurrency-backed assets</b>,” S&P’19, vol. 2019-May, pp. 193–210, 2019, doi: 10.1109/SP.2019.00085.
+ <li> A. Kiayias and D. Zindros, “<b>Proof-of-Work Sidechains</b>,” in FC’20, vol. 11599 LNCS, pp. 21–34, doi: 10.1007/978-3-030-43725-1_3.
+  <li> S. A. K. Thyagarajan, G. Malavolta, and P. Moreno-Sanchez, “<b>Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains</b>,” S&P’ 22, vol. 2022-May, pp. 1299–1316, 2022, doi: 10.1109/SP46214.2022.9833731.
+<li> T. Xie et al., “<b>zkBridge: Trustless Cross-chain Bridges Made Practical</b>,” CCS’22, Online . Available: http://arxiv.org/abs/2210.00264.
+ <li> R. Belchior, A. Vasconcelos, S. Guerreiro, and M. Correia, “<b>A Survey on Blockchain Interoperability: Past, Present, and Future Trends</b>,” ACM Computing Surveys, vol. 54, no. 8, pp. 1–41, Nov. 2022, doi: 10.1145/3471140.
  <li> OPTIMISTIC ROLLUPS https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/
 </ol>
 
 ## Sharding
  
 <ol>
- <li> L. Luu, V. Narayanan, C. Zheng, K. Baweja, S. Gilbert, and P. Saxena, “A secure sharding protocol for open blockchains,” CCS’16, vol. 24-28-Octo, pp. 17–30, 2016, doi: 10.1145/2976749.2978389.
-<li> E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly, E. Syta, and B. Ford, “OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding,” S&P’18, vol. 2018-May, pp. 583–598, 2018, doi: 10.1109/SP.2018.000-5.
-<li> M. Zamani, M. Movahedi, and M. Raykova, “RapidChain: Scaling blockchain via full sharding,” CCS’18, pp. 931–948, 2018, doi: 10.1145/3243734.3243853.
-<li> J. Wang and H. Wang, “Monoxide: Scale out Blockchains with Asynchronous Consensus Zones Monoxide: Scale Out Blockchain with Asynchronous Consensus,” NSDI19, pp. 95--112, 2019, [Online]. Available: https://www.usenix.org/conference/nsdi19/presentation/wang-jiaping.
-<li> L. N. Nguyen, T. D. T. Nguyen, T. N. Dinh, and M. T. Thai, “OptChain: Optimal transactions placement for scalable blockchain sharding,” ICDCS’19, vol. 2019-July, pp. 525–535, 2019, doi: 10.1109/ICDCS.2019.00059.
-<li> H. Dang, T. T. A. Dinh, D. Loghin, E. C. Chang, Q. Lin, and B. C. Ooi, “Towards scaling blockchain systems via sharding,” SIGMOD’19, pp. 123–140, 2019, doi: 10.1145/3299869.3319889.
-<li> Y. Tao, B. Li, J. Jiang, H. C. Ng, C. Wang, and B. Li, “On sharding open blockchains with smart contracts,” ICDE’20, vol. 2020, pp. 1357–1368, 2020, doi: 10.1109/ICDE48307.2020.00121.
-<li> S. Das, V. Krishnan, and L. Ren, “Efficient Cross-Shard Transaction Execution in Sharded Blockchains,” 2020, [Online]. Available: http://arxiv.org/abs/2007.14521.
-<li> M. J. Amiri, D. Agrawal, and A. El Abbadi, “SharPer: Sharding Permissioned Blockchains over Network Clusters,” SIGMOD’21, pp. 76–88, 2021, doi: 10.1145/3448016.3452807.
-<li> C. Chen, Q. Ma, X. Chen, and J. Huang, “User distributions in shard-based blockchain network: queueing modeling, game analysis, and protocol design,” MobiHoc’21, pp. 221–230, 2021, doi: 10.1145/3466772.3467051.
-<li> J. Hellings and M. Sadoghi, “Byshard: Sharding in a byzantine environment,” Proceedings of the VLDB Endowment, vol. 14, no. 11, pp. 2230–2243, 2021, doi: 10.14778/3476249.3476275.
-<li> Z. Hong, S. Guo, P. Li, and W. Chen, “Pyramid: A layered sharding blockchain system,” INFOCOM’21, vol. 2021-May, no. c, 2021, doi: 10.1109/INFOCOM42981.2021.9488747.
-<li> H. Huang et al., “BrokerChain : A Cross-Shard Blockchain Protocol for Account / Balance-based State Sharding,” INFOCOM’22, pp. 1–10, 2022.
+ <li> L. Luu, V. Narayanan, C. Zheng, K. Baweja, S. Gilbert, and P. Saxena, “<b>A secure sharding protocol for open blockchains</b>,” CCS’16, vol. 24-28-Octo, pp. 17–30, 2016, doi: 10.1145/2976749.2978389.
+<li> E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly, E. Syta, and B. Ford, “<b>OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding</b>,” S&P’18, vol. 2018-May, pp. 583–598, 2018, doi: 10.1109/SP.2018.000-5.
+<li> M. Zamani, M. Movahedi, and M. Raykova, “<b>RapidChain: Scaling blockchain via full sharding</b>,” CCS’18, pp. 931–948, 2018, doi: 10.1145/3243734.3243853.
+<li> J. Wang and H. Wang, “<b>Monoxide: Scale out Blockchains with Asynchronous Consensus Zones Monoxide: Scale Out Blockchain with Asynchronous Consensus</b>,” NSDI19, pp. 95--112, 2019, [Online]. Available: https://www.usenix.org/conference/nsdi19/presentation/wang-jiaping.
+<li> L. N. Nguyen, T. D. T. Nguyen, T. N. Dinh, and M. T. Thai, “<b>OptChain: Optimal transactions placement for scalable blockchain sharding</b>,” ICDCS’19, vol. 2019-July, pp. 525–535, 2019, doi: 10.1109/ICDCS.2019.00059.
+<li> H. Dang, T. T. A. Dinh, D. Loghin, E. C. Chang, Q. Lin, and B. C. Ooi, “<b>Towards scaling blockchain systems via sharding</b>,” SIGMOD’19, pp. 123–140, 2019, doi: 10.1145/3299869.3319889.
+<li> Y. Tao, B. Li, J. Jiang, H. C. Ng, C. Wang, and B. Li, “<b>On sharding open blockchains with smart contracts</b>,” ICDE’20, vol. 2020, pp. 1357–1368, 2020, doi: 10.1109/ICDE48307.2020.00121.
+<li> S. Das, V. Krishnan, and L. Ren, “<b>Efficient Cross-Shard Transaction Execution in Sharded Blockchains</b>,” 2020, [Online]. Available: http://arxiv.org/abs/2007.14521.
+<li> M. J. Amiri, D. Agrawal, and A. El Abbadi, “<b>SharPer: Sharding Permissioned Blockchains over Network Clusters</b>,” SIGMOD’21, pp. 76–88, 2021, doi: 10.1145/3448016.3452807.
+<li> C. Chen, Q. Ma, X. Chen, and J. Huang, “<b>User distributions in shard-based blockchain network: queueing modeling, game analysis, and protocol design</b>,” MobiHoc’21, pp. 221–230, 2021, doi: 10.1145/3466772.3467051.
+<li> J. Hellings and M. Sadoghi, “<b>Byshard: Sharding in a byzantine environment</b>,” Proceedings of the VLDB Endowment, vol. 14, no. 11, pp. 2230–2243, 2021, doi: 10.14778/3476249.3476275.
+<li> Z. Hong, S. Guo, P. Li, and W. Chen, “<b>Pyramid: A layered sharding blockchain system</b>,” INFOCOM’21, vol. 2021-May, no. c, 2021, doi: 10.1109/INFOCOM42981.2021.9488747.
+<li> H. Huang et al., “<b>BrokerChain : A Cross-Shard Blockchain Protocol for Account / Balance-based State Sharding</b>,” INFOCOM’22, pp. 1–10, 2022.
 </ol>
 
