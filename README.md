@@ -98,7 +98,8 @@ Sourav Das (UIUC), Vinith Krishnan (UIUC), Irene Isaac (UIUC), Ling Ren (UIUC)
 Sri AravindaKrishnan Thyagarajan (Friedrich Alexander University of Erlangen-Nürnberg), Giulio Malavolta (Max Planck Institute for Security and Privacy), Pedro Moreno-Sanchez (IMDEA Software Institute)
 ###  [10]	Using Throughput-Centric Byzantine Broadcast to Tolerate Malicious Majority in Blockchains 
 Ruomu Hou (National University of Singapore), Haifeng Yu (National University of Singapore), Prateek Saxena (National University of Singapore)
-
+###  [11]	SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds
+ Priyanka Bose (University of California, Santa Barbara), Dipanjan Das (University of California, Santa Barbara), Yanju Chen (University of California, Santa Barbara), Yu Feng (University of California, Santa Barbara), Christopher Kruegel (University of California, Santa Barbara), Giovanni Vigna (UC Santa Barbara)
 
 
 # Topic
