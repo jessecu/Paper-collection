@@ -109,8 +109,23 @@ Ruomu Hou (National University of Singapore), Haifeng Yu (National University of
 
 ## NSDI 2022
 https://www.usenix.org/conference/nsdi22/spring-accepted-papers
-###  [1]DispersedLedger: High-Throughput Byzantine Consensus on Variable Bandwidth Networks
+###  [1] DispersedLedger: High-Throughput Byzantine Consensus on Variable Bandwidth Networks
 Lei Yang, Seo Jin Park, and Mohammad Alizadeh, MIT CSAIL; Sreeram Kannan, University of Washington; David Tse, Stanford University
+
+## OSDI 2020
+https://www.usenix.org/conference/osdi20/accepted-papers
+###  [1]  Virtual Consensus in Delos <**Awarded Best Paper!**>
+Mahesh Balakrishnan, Jason Flinn, Chen Shen, Mihir Dharamshi, Ahmed Jafri, Xiao Shi, Santosh Ghosh, Hazem Hassan, Aaryaman Sagar, Rhed Shi, Jingming Liu, Filip Gruszczynski, Xianan Zhang, Huy Hoang, Ahmed Yossef, Francois Richard, and Yee Jiun Song, Facebook, Inc.
+
+###  [2]  Byzantine Ordered Consensus without Byzantine Oligarchy <**Awarded Best Paper!**>
+Yunhao Zhang, Cornell University; Srinath Setty, Qi Chen, and Lidong Zhou, Microsoft Research; Lorenzo Alvisi, Cornell University
+
+###  [3]  Blockene: A High-throughput Blockchain Over Mobile Devices
+Sambhav Satija and Apurv Mehra, Microsoft Research India; Sudheesh Singanamalla, University of Washington; Karan Grover, Muthian Sivathanu, Nishanth Chandran, Divya Gupta, and Satya Lokam, Microsoft Research India
+
+## SOSP 2020 
+https://sosp2021.mpi-sws.org/accepted.html
+###  [1] Basil: Breaking up BFT with ACID (transactions) by Florian Suri-Payer (Cornell University), Matthew Burke (Cornell University), Yunhao Zhang (Cornell University), Zheng Wang (Cornell University), Lorenzo Alvisi (Cornell University), and Natacha Crooks (UC Berkeley)
 
 
 # Topic
