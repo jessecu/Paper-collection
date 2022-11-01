@@ -107,6 +107,11 @@ Ruomu Hou (National University of Singapore), Haifeng Yu (National University of
 ###  [11]	SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds
  Priyanka Bose (University of California, Santa Barbara), Dipanjan Das (University of California, Santa Barbara), Yanju Chen (University of California, Santa Barbara), Yu Feng (University of California, Santa Barbara), Christopher Kruegel (University of California, Santa Barbara), Giovanni Vigna (UC Santa Barbara)
 
+## NSDI 2022
+https://www.usenix.org/conference/nsdi22/spring-accepted-papers
+###  [1]DispersedLedger: High-Throughput Byzantine Consensus on Variable Bandwidth Networks
+Lei Yang, Seo Jin Park, and Mohammad Alizadeh, MIT CSAIL; Sreeram Kannan, University of Washington; David Tse, Stanford University
+
 
 # Topic
 ## Cross-chain communication
@@ -144,4 +149,5 @@ Ruomu Hou (National University of Singapore), Haifeng Yu (National University of
 <li> Z. Hong, S. Guo, P. Li, and W. Chen, “<b>Pyramid: A layered sharding blockchain system</b>,” INFOCOM’21, vol. 2021-May, no. c, 2021, doi: 10.1109/INFOCOM42981.2021.9488747.
 <li> H. Huang et al., “<b>BrokerChain : A Cross-Shard Blockchain Protocol for Account / Balance-based State Sharding</b>,” INFOCOM’22, pp. 1–10, 2022.
 </ol>
+
 
