@@ -71,9 +71,15 @@ https://www.usenix.org/conference/usenixsecurity22/winter-accepted-papers
 Derek Leung, MIT CSAIL; Yossi Gilad, Hebrew University of Jerusalem; Sergey Gorbunov, University of Waterloo; Leonid Reyzin, Boston University; Nickolai Zeldovich, MIT CSAIL
 ###  [2]	Total Eclipse of the Heart – Disrupting the InterPlanetary File System
 Bernd Prünster, Institute of Applied Information Processing and Communications (IAIK), Graz University of Technology; Alexander Marsalek, A-SIT Secure Information Technology Center Austria; Thomas Zefferer, A-SIT Plus GmbH
-
-###  [3]	VerLoc: Verifiable Localization in Decentralized Systems
+###  [3]	Twilight: A Differentially Private Payment Channel Network
+Maya Dotan, Saar Tochner, Aviv Zohar, and Yossi Gilad, The Hebrew University of Jerusalem
+###  [4]	How to Peel a Million: Validating and Expanding Bitcoin Clusters
+George Kappos and Haaroon Yousaf, University College London and IC3; Rainer Stütz and Sofia Rollet, AIT - Austrian Institute of Technology; Bernhard Haslhofer, Complexity Science Hub Vienna; Sarah Meiklejohn, University College London and IC3
+###  [5]	VerLoc: Verifiable Localization in Decentralized Systems
 Katharina Kohls, Radboud University Nijmegen; Claudia Diaz, imec-COSIC KU Leuven and Nym Technologies SA
+
+
+
 
 
 ## S&P 2022
