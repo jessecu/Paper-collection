@@ -112,6 +112,32 @@ https://www.usenix.org/conference/nsdi22/spring-accepted-papers
 ###  [1] DispersedLedger: High-Throughput Byzantine Consensus on Variable Bandwidth Networks
 Lei Yang, Seo Jin Park, and Mohammad Alizadeh, MIT CSAIL; Sreeram Kannan, University of Washington; David Tse, Stanford University
 
+## CCS 2021
+https://www.sigsac.org/ccs/CCS2021/accepted-papers.html
+
+###  [1]	Revisiting Nakamoto Consensus in Asynchronous Networks: A Comprehensive Analysis of Bitcoin Safety and Chain Quality
+Muhammad Saad (University of Central Florida); Afsah Anwar (University of Central Florida); Srivatsan Ravi (University of Southern California); David Mohaisen (University of Central Florida)
+###  [2]	BFT Protocol Forensics
+Peiyao Sheng (University of Illinois at Urbana-Champaign); Gerui Wang (UIUC); Kartik Nayak (Duke University); Sreeram Kannan (University of Washington); Pramod Viswanath (UIUC)
+###  [3]	Securing Parallel-chain Protocols under Variable Mining Power
+Xuechao Wang (University of Illinois Urbana-Champaign); Viswa Virinchi Muppirala (University of Washington at Seattle); Lei Yang (MIT CSAIL); Sreeram Kannan (University of Washington at Seattle); Pramod Viswanath (University of Illinois Urbana-Champaign)
+###  [4]	Amortized Threshold Symmetric-key Encryption
+Pratyay Mukherjee (Visa Research); Rohit Sinha (Swirlds Inc.); Sivanarayana Gaddam (C3 Inc.); Mihai Christodorescu (Visa Research)
+###  [5]	A Security Framework for Distributed Ledgers
+Christoph Egger (Friedrich-Alexander University Erlangen-Nürnberg); Mike Graf (University of Stuttgart); Ralf Küsters (University of Stuttgart); Daniel Rausch (University of Stuttgart); Viktoria Ronge (Friedrich-Alexander University Erlangen-Nürnberg); Dominique Schröder (Friedrich-Alexander University Erlangen-Nürnberg)
+###  [6]	SyncAttack: Double-spending in Bitcoin Without Mining Power
+Muhammad Saad (University of Central Florida); Songqing Chen (George Mason University); David Mohaisen (University of Central Florida)
+###  [7]	Mining in Logarithmic Space
+Aggelos Kiayias (University of Edinburgh and IOHK); Nikos Leonardos (University of Athens); Dionysis Zindros (University of Athens)
+###  [8]	How Does Blockchain Security Dictate Blockchain Implementation?
+Andrew Lewis-Pye (London School of Economics); Tim Roughgarden (Columbia University)
+###  [9]	Multi-Threshold Byzantine Fault Tolerance
+Atsuki Momose (Nagoya University); Ling Ren (University of Illinois at Urbana-Champaign)
+###  [10]	Verifying Table-Based Elections
+David Basin (Institute of Information Security, Department of Computer Science, ETH Zurich); Jannik Dreier (Universite de Lorraine, CNRS, Inria, LORIA); Sofia Giampietro (Institute of Information Security, Department of Computer Science, ETH Zurich); Sasa Radomirovic (Department of Computer Science, Heriot-Watt University)
+
+
+
 ## OSDI 2020
 https://www.usenix.org/conference/osdi20/accepted-papers
 ###  [1]  Virtual Consensus in Delos <**Awarded Best Paper!**>
