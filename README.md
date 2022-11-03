@@ -5,6 +5,9 @@
   * [S&P 2022](#s-p-2022)
   * [NSDI 2022](#NSDI-2022)
   * [CCS 2021](#ccs-2021)
+  * [OSDI 2020](#OSDI-2020)
+  * [SOSP 2020](#SOSP-2020)
+ 
 - [Topic](#topic)
   * [Cross-chain communication](#cross-chain-communication)
   * [Sharding](#Sharding)
