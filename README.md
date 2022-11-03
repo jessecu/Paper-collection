@@ -156,7 +156,8 @@ Sambhav Satija and Apurv Mehra, Microsoft Research India; Sudheesh Singanamalla,
 
 ## SOSP 2020 
 https://sosp2021.mpi-sws.org/accepted.html
-###  [1] Basil: Breaking up BFT with ACID (transactions) by Florian Suri-Payer (Cornell University), Matthew Burke (Cornell University), Yunhao Zhang (Cornell University), Zheng Wang (Cornell University), Lorenzo Alvisi (Cornell University), and Natacha Crooks (UC Berkeley)
+###  [1] Basil: Breaking up BFT with ACID (transactions)
+Florian Suri-Payer (Cornell University), Matthew Burke (Cornell University), Yunhao Zhang (Cornell University), Zheng Wang (Cornell University), Lorenzo Alvisi (Cornell University), and Natacha Crooks (UC Berkeley)
 
 
 # Topic
