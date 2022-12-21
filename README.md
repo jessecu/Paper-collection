@@ -198,7 +198,7 @@ Florian Suri-Payer (Cornell University), Matthew Burke (Cornell University), Yun
  <li> L. Luu, V. Narayanan, C. Zheng, K. Baweja, S. Gilbert, and P. Saxena, “<b>A secure sharding protocol for open blockchains</b>,” CCS’16, vol. 24-28-Octo, pp. 17–30, 2016, doi: 10.1145/2976749.2978389.
 <li> E. Kokoris-Kogias, P. Jovanovic, L. Gasser, N. Gailly, E. Syta, and B. Ford, “<b>OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding</b>,” S&P’18, vol. 2018-May, pp. 583–598, 2018, doi: 10.1109/SP.2018.000-5.
 <li> M. Zamani, M. Movahedi, and M. Raykova, “<b>RapidChain: Scaling blockchain via full sharding</b>,” CCS’18, pp. 931–948, 2018, doi: 10.1145/3243734.3243853.
-<li> J. Wang and H. Wang, “<b>Monoxide: Scale out Blockchains with Asynchronous Consensus Zones Monoxide: Scale Out Blockchain with Asynchronous Consensus</b>,” NSDI19, pp. 95--112, 2019, [Online]. Available: https://www.usenix.org/conference/nsdi19/presentation/wang-jiaping.
+<li> J. Wang and H. Wang, “<b>Monoxide: Scale out Blockchains with Asynchronous Consensus Zones Monoxide: Scale Out Blockchain with Asynchronous Consensus</b>,” NSDI19, pp. 95--112, 2019.
 <li>  M. Al-Bassam, A. Sonnino, S. Bano, D. Hrycyszyn, and G. Danezis, “<b> Chainspace: A Sharded Smart Contracts Platform</b>,” NDSS'18, doi: 10.14722/ndss.2018.23241.
 <li> L. N. Nguyen, T. D. T. Nguyen, T. N. Dinh, and M. T. Thai, “<b>OptChain: Optimal transactions placement for scalable blockchain sharding</b>,” ICDCS’19, vol. 2019-July, pp. 525–535, 2019, doi: 10.1109/ICDCS.2019.00059.
 <li> H. Dang, T. T. A. Dinh, D. Loghin, E. C. Chang, Q. Lin, and B. C. Ooi, “<b>Towards scaling blockchain systems via sharding</b>,” SIGMOD’19, pp. 123–140, 2019, doi: 10.1145/3299869.3319889.
