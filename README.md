@@ -68,20 +68,25 @@ Tim Ruffing (Blockstream); Viktoria Ronge (Friedrich-Alexander-Universität Erla
 ###  [17]	Reinforced Concrete: A Fast Hash Function for Verifiable Computation
 Lorenzo Grassi (Radboud University); Dmitry Khovratovich (Dusk Network); Reinhard Lüftenegger (Graz University of Technology); Christian Rechberger (Graz University of Technology); Markus Schofnegger (Graz University of Technology); Roman Walch (Graz University of Technology;Know-Center GmbH)
 
-###  [18]	Bullshark: DAG BFT Protocols Made Practical	Alexander Spiegelman (Aptos); Neil Giridharan (Berkeley); Alberto Sonnino (Mesten Labs); Lefteris Kokoris-Kogias (IST Austria)
+###  [18]	Bullshark: DAG BFT Protocols Made Practical	
+Alexander Spiegelman (Aptos); Neil Giridharan (Berkeley); Alberto Sonnino (Mesten Labs); Lefteris Kokoris-Kogias (IST Austria)
 
-###  [19]	Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT	Yuan Lu (Institute of Software Chinese Academy of Sciences); Zhenliang Lu (The University of Sydney); Qiang Tang (The University of Sydney)
+###  [19]	Bolt-Dumbo Transformer: Asynchronous Consensus As Fast As the Pipelined BFT	
+Yuan Lu (Institute of Software Chinese Academy of Sciences); Zhenliang Lu (The University of Sydney); Qiang Tang (The University of Sydney)
 
-###  [20]	Dumbo-NG: Fast Asynchronous BFT Consensus with Throughput-Oblivious Latency	Yingzi Gao (Institute of Software Chinese Academy of Sciences; University of Chinese Academy of Sciences); Yuan Lu (Institute of Software Chinese Academy of Sciences); Zhenliang Lu (The University of Sydney); Qiang Tang (The University of Sydney); Jing Xu (Institute of Software Chinese Academy of Sciences); Zhenfeng Zhang (Institute of Software Chinese Academy of Sciences)
+###  [20]	Foundations of Coin Mixing Services	
+Noemi Glaeser (University of Maryland & Max Planck Institute for Security and Privacy); Matteo Maffei (TU Wien & Christian Doppler Laboratory Blockchain Technologies for the Internet of Things); Giulio Malavolta (Max Planck Institute for Security and Privacy); Pedro Moreno-Sanchez (IMDEA Software Institute); Erkan Tairi (TU Wien & Christian Doppler Laboratory Blockchain Technologies for the Internet of Things); Sri Aravinda Krishnan Thyagarajan (Carnegie Mellon University)
 
-###  [21]	Constant Latency in Sleepy Consensus	Atsuki Momose (University of Illinois at Urbana-Champaign); Ling Ren (University of Illinois at Urbana-Champaign)
+###  [21]	Constant Latency in Sleepy Consensus	
+Atsuki Momose (University of Illinois at Urbana-Champaign); Ling Ren (University of Illinois at Urbana-Champaign)
 
-###  [22]	VRust: Automated Vulnerability Detection for Solana Smart Contracts	Siwei Cui (Texas A&M University); Gang Zhao (Texas A&M University); Yifei Gao (Texas A&M University); Tien Tavu (Texas A&M University); Jeff Huang (Texas A&M University)
+###  [22]	VRust: Automated Vulnerability Detection for Solana Smart Contracts	
+Siwei Cui (Texas A&M University); Gang Zhao (Texas A&M University); Yifei Gao (Texas A&M University); Tien Tavu (Texas A&M University); Jeff Huang (Texas A&M University)
 
 
-###  [23]	Sleepy Channels: Bi-directional Payment Channels without Watchtowers	Lukas Aumayr (TU Wien); Sri AravindaKrishnan Thyagarajan (Carnegie Mellon University); Giulio Malavolta (Max Planck Institute for Security and Privacy); Pedro Moreno-Sanchez (IMDEA Software Institute); Matteo Maffei (Christian Doppler Laboratory Blockchain Technologies for the Internet of Things & TU Wien)
+###  [23]	Sleepy Channels: Bi-directional Payment Channels without Watchtowers	
+Lukas Aumayr (TU Wien); Sri AravindaKrishnan Thyagarajan (Carnegie Mellon University); Giulio Malavolta (Max Planck Institute for Security and Privacy); Pedro Moreno-Sanchez (IMDEA Software Institute); Matteo Maffei (Christian Doppler Laboratory Blockchain Technologies for the Internet of Things & TU Wien)
 
-###  [24]	Foundations of Coin Mixing Services	Noemi Glaeser (University of Maryland & Max Planck Institute for Security and Privacy); Matteo Maffei (TU Wien & Christian Doppler Laboratory Blockchain Technologies for the Internet of Things); Giulio Malavolta (Max Planck Institute for Security and Privacy); Pedro Moreno-Sanchez (IMDEA Software Institute); Erkan Tairi (TU Wien & Christian Doppler Laboratory Blockchain Technologies for the Internet of Things); Sri Aravinda Krishnan Thyagarajan (Carnegie Mellon University)
 
 
 
